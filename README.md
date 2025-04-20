@@ -23,7 +23,7 @@ The pilot study is designed to ensure the wallet and admin dashboard meet user n
 
 ## Pilot Study Design
 ### 1. Participants
-- **Target Audience:** 5-10 early adopters (internal stakeholders or select external testers) with varying technical expertise.
+- **Target Audience:** 5 early adopters (internal stakeholders or select external testers) with varying technical expertise.
 - **Selection Criteria:**
   - Experience with decentralized identity systems or digital wallets
   - A mix of users with different privacy/security concerns
@@ -74,8 +74,3 @@ Following the pilot study:
 - Implement additional security measures or design changes as needed
 - Decide on broader release or further testing rounds
 
----
-
-**Verit** – Ensuring OCR Accuracy, Every Time
-
-For questions or feedback about the pilot study, please contact the Verit team.
